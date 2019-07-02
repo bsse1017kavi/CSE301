@@ -1,7 +1,8 @@
-#include <iostream>
+/*#include <iostream>
 #include<string.h>
 #include <sstream>
-#include <math.h>
+#include <math.h>*/
+#include<bits/stdc++.h>
 
 using namespace std;
 
